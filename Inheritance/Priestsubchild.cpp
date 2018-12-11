@@ -1,6 +1,6 @@
 #include "Priestsubchild.h"
 #include "Will name later.h"
-
+ 
 //constructor
 Priestsubchild::Priestsubchild()
 {
