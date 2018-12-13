@@ -118,10 +118,12 @@
     <ClCompile Include="Humanbaseparent.cpp" />
     <ClCompile Include="Priestsubchild.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Warrior.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Humanbaseparent.h" />
     <ClInclude Include="Priestsubchild.h" />
+    <ClInclude Include="Warrior.h" />
     <ClInclude Include="Will name later.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

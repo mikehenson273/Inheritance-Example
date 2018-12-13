@@ -10,7 +10,7 @@ void Humanbaseparent::talk(string dialog)
 {
 	cout << dialog << endl;
 }
-
+  
 void Humanbaseparent::move(string newlocation)
 {
 	cout << "I am moving to " << newlocation << endl;

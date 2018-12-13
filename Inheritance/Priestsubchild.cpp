@@ -7,9 +7,9 @@ Priestsubchild::Priestsubchild()
 	cout << "A Priest is born!\n";
 }
 
-void Priestsubchild::bless()
+void Priestsubchild::bless(string whoToBless)
 {
-	cout << "Bless you!" << endl;
+	cout << "The Priest blesses " << whoToBless << "\n\n";
 }
 
 

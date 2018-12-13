@@ -8,7 +8,7 @@ public:
 	Priestsubchild();
 	~Priestsubchild();
 	
-	void bless();
+	void bless(string whoToBless);
 
 private:
 
